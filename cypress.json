@@ -1,0 +1,5 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "ignoreTestFiles": "**/examples/*.js",
+  "env": { "FROM_CONFIG": "value comes from cypress.json" }
+}
